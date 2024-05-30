@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Gradient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainParentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewTicketEditIDs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PictureBoxTransparency.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ReplyToTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResponsesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
